@@ -40,6 +40,16 @@ This method of conversion allows the core ideas of Malthus's essay to be communi
 [Example Essay.pdf](https://github.com/user-attachments/files/16623651/Example.Essay.pdf)
 
 #
+### Upload Limits
+
+For ChatGPT, the upload limits for files, including ZIP files, are as follows:
+
+- File size limit: 20 MB per file.
+- Total number of files: Up to 10 files can be uploaded in a single interaction.
+
+These limits apply regardless of the file type, including ZIP files.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
