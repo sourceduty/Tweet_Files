@@ -63,6 +63,12 @@ These limits apply regardless of the file type, including ZIP files.
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Document Fusion](https://chatgpt.com/g/g-KfDrCWbYq-document-fusion)
+<br>
+[Twitter](https://github.com/sourceduty/Twitter)
+<br>
+[Tweet Prescheduler](https://github.com/sourceduty/Tweet_Prescheduler)
+<br>
+[Tweet Marketplace](https://github.com/sourceduty/Tweet_Marketplace)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
